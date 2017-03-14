@@ -1,0 +1,11 @@
+src/Server.form
+nbproject/private/private.xml
+*.properties
+*.xml
+*.form
+manifest.mf
+*.TXT
+build/classes/Server.java
+*.class
+build/classes/.netbeans_update_resources
+*.netbeans_automatic_build
